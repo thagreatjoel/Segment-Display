@@ -10,10 +10,15 @@ This is my journal of the design and building process of **Segment Display**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/679).
 
 
-## 10/18/2025 - Routing and Alignments  
+## 10/18/2025 7 PM - Routing and Alignments  
 
 Today was all about working on my big 7-segment display project, and honestly, it was a little intense but fun. I'm trying to make a giant vertical display with 8 modules, and each module has a number of points. At first, I felt a little overwhelmed by all the pins and sections, but once I broke it down step by step, it started to make sense.
 
 ![Segment Display_page-0001~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b0c89258c7becd1ed3f329ec2201db88488fcc8/Segment%20Display_page-0001~2.jpg)
+  
+
+## 10/18/2025 10 PM - Display Connection Setup  
+
+ I finally reached the wiring stage for my 4digit display, and things are starting to feel more real now.after replacing the previous individual 7-segment units with the new SEG-THx4 module, I noticed that it had pins labeled G1 G2 G3 G4 but no VCC. After some research I found out that it doesn't require vcc at all..![Segment Display (1)_page-0001~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAxMywicHVyIjoiYmxvYl9pZCJ9fQ==--2863cc77bb5fcbbe366ad4974a45bba6f83e135c/Segment%20Display%20(1)_page-0001~2.jpg)
   
 
