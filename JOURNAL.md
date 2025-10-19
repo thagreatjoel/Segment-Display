@@ -22,3 +22,8 @@ Today was all about working on my big 7-segment display project, and honestly, i
  I finally reached the wiring stage for my 4digit display, and things are starting to feel more real now.after replacing the previous individual 7-segment units with the new SEG-THx4 module, I noticed that it had pins labeled G1 G2 G3 G4 but no VCC. After some research I found out that it doesn't require vcc at all..![Segment Display (1)_page-0001~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAxMywicHVyIjoiYmxvYl9pZCJ9fQ==--2863cc77bb5fcbbe366ad4974a45bba6f83e135c/Segment%20Display%20(1)_page-0001~2.jpg)
   
 
+## 10/19/2025 - Order Correction   
+
+At first all was going well then suddenly I found out that each display should have its own max module.. earlier I connected those display 8 - display in one module.. and that was the mistake. I had to change all the things I had done earlier. After going though straight work I finally corrected and had some progress..![Segment Display (2)_page-0001~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--091543e78b21de11bfbf6c84771a5b944d4734eb/Segment%20Display%20(2)_page-0001~2.jpg)
+  
+
