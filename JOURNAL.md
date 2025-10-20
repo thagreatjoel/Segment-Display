@@ -32,3 +32,8 @@ At first all was going well then suddenly I found out that each display should h
 I recently added 16 more Displays and had layout. every single displays has its own module. Now there are 4 rows and 8 columes of display.. I connect the DIN pin of MAX1 module to DOUT pin of MAX2 and continued the rest till the 32th module.. it is now all controlled by one ESP32 C3 wroom..![Segment Display_page-0001~3.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c77b883760144ace7f112ada24a037ecd2d5d62d/Segment%20Display_page-0001~3.jpg)
   
 
+## 10/20/2025 - Addition of Power Supply  
+
+Im pretty sure that I'm cooking well.. right now I don't even understand what I just made.. like, look it yourself. So many wire and stuff. I spent like half n hour only to find the mistake.(Ngl Found few mistake) I also added the C-Type with the regulator for the power ![Segment Display (1)_page-0001 (1)~3.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d6401beee7d9762b806b1e10b43c1d9e69799837/Segment%20Display%20(1)_page-0001%20(1)~3.jpg)
+supply  
+
