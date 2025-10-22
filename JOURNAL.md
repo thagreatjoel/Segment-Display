@@ -43,3 +43,8 @@ And finally I finished the schematic design... Ahm.. that was rough now next is 
 After designing the whole pcb I tried auto route. But it barely worked like i got 2300 sucess and 200 failed routes.. so I had to route the rest manually.. then I saw that the usb I'm using is not able to connect the GND and VBUS pin to the component.. I am so frustrated.![Screenshot_20251021-190645.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--aa6d9948a9926e5a09f2d1aa74b72db20602f1e2/Screenshot_20251021-190645.Chrome.jpg)
   
 
+## 10/22/2025 - Success   
+
+After a few hours of grinding I finally managed to get rid from the error now 85% of the project is finished. This will be able to power with 5v plus regulating to 3.3v for esp![Screenshot_20251022-124512.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e662c0eca485bc4b77785fe53f40469e81344889/Screenshot_20251022-124512.Chrome.jpg)
+  
+
