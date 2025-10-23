@@ -48,3 +48,10 @@ After designing the whole pcb I tried auto route. But it barely worked like i go
 After a few hours of grinding I finally managed to get rid from the error now 85% of the project is finished. This will be able to power with 5v plus regulating to 3.3v for esp![Screenshot_20251022-124512.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e662c0eca485bc4b77785fe53f40469e81344889/Screenshot_20251022-124512.Chrome.jpg)
   
 
+## 10/23/2025 - Finished GitHub Repo  
+
+I finished uploading every file related to my project the PCB, schematic, and all the required documents to my Github repository. It feels really good to see everything finally complete.
+
+I designed and managed the whole project using my mobile phone through EasyEDA and GitHub. It took a lot of patience, but I learned so much along the way about PCB design, co![Screenshot_20251023-223518.Instagram.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fc785c284d15f64cf736dc313092d6f02cd6aeeb/Screenshot_20251023-223518.Instagram.png)
+nnections, and components.  
+
