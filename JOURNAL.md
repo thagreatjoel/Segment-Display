@@ -38,7 +38,7 @@ supply
 And finally I finished the schematic design... Ahm.. that was rough now next is to design the pcb.. and it is the hardest thing in this project.. like there are 32 display with modules and other components each.. this project will be the longest and toughest thing I'll ever made.. to note that the order of display are all mixed..![PCB_PCB_Segment-Display_2025-10-20 (2)~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--7261aee32034db3a95297e6a6ff33897de17bd89/PCB_PCB_Segment-Display_2025-10-20%20(2)~2.jpg)
   
 
-## 10/21/2025 - Me vs. The Error  
+## 10/21/2025 - Routing  
 
 After designing the whole pcb I tried auto route. But it barely worked like i got 2300 sucess and 200 failed routes.. so I had to route the rest manually.. then I saw that the usb I'm using is not able to connect the GND and VBUS pin to the component.. I am so frustrated.![Screenshot_20251021-190645.Chrome.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--aa6d9948a9926e5a09f2d1aa74b72db20602f1e2/Screenshot_20251021-190645.Chrome.jpg)
   
