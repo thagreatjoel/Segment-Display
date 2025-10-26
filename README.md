@@ -51,6 +51,7 @@ max1 DIN -> ESP Pin13, max1 DOUT -> max2 DIN, max2 DOUT -> max2 DIN, ........
 - Pot pin 2 -> GND  
 
 ---
-
+## Why I Made This?
+It all started when I saw a giant 7-segment display in a reel and thought, "i can totally make that!".. A few hours later, I was deep in EasyEDA on my phone. honestly, I like keeping it in front of my table to watch it having cool animations...
 
 >  This entire project, including the schematic and PCB routing, was fully designed and built on a mobile device using EasyEDA Web.
