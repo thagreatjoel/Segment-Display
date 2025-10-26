@@ -55,3 +55,8 @@ I finished uploading every file related to my project the PCB, schematic, and al
 I designed and managed the whole project using my mobile phone through EasyEDA and GitHub. It took a lot of patience, but I learned so much along the way about PCB design, co![Screenshot_20251023-223518.Instagram.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDgyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fc785c284d15f64cf736dc313092d6f02cd6aeeb/Screenshot_20251023-223518.Instagram.png)
 nnections, and components.  
 
+## 10/26/2025 - New changes  
+
+I have recently new stuff and removed some of the modules.. since one module can able to power 8 digits. To make sure everything is fine.. I uploaded the finished project to GitHub repo. ![Schematic_Segment-Display_2025-10-26](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0326cf0acdf77c2bdcafb0e65877407c0a8e5247/Schematic_Segment-Display_2025-10-26.jpg)
+  
+
