@@ -60,3 +60,8 @@ nnections, and components.
 I have recently new stuff and removed some of the modules.. since one module can able to power 8 digits. To make sure everything is fine.. I uploaded the finished project to GitHub repo. ![Schematic_Segment-Display_2025-10-26](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0326cf0acdf77c2bdcafb0e65877407c0a8e5247/Schematic_Segment-Display_2025-10-26.jpg)
   
 
+## 11/1/2025 - Bom Updated  
+
+Fixed some of the issue that where causing trouble to ship this project.. I wasnt sure about where the parts I buy from.. now at final I am buying all stuff from JLCPCB itself.. updated by bom ![rigrig](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f583ec834e887023c460e6e35055b2b9f126a3c9/rigrig.jpg)
+  
+
