@@ -11,12 +11,12 @@ Each display handles a MAX7219 and every driver has capasitor for smooth power s
 | Component | Quantity |
 |------------|-----------|
 | ESP32 | 1 | 
-| MAX7219 | 32 | 
+| MAX7219 | 16 | 
 | 4-Digit 7-Segment Display | 32 |
 | Potentiometer | 1 | 
 | Resistor (2.2 kΩ) | 1 |
-| Capacitor 10 µF (Electrolytic) | 32 |
-| Capacitor 0.1 µF (Ceramic) | 32 | 
+| Capacitor 10 µF (Electrolytic) | 16 |
+| Capacitor 0.1 µF (Ceramic) | 16 | 
 
 ---
 
