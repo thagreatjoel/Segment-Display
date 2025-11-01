@@ -1,0 +1,18 @@
+Items,Description,Product Link,Quantity,Unit Price,Total Price
+LED-SEG-TH_12P,LED Segment Display,https://jlcpcb.com/partdetail/ARKLED_Wuxi_ARK_Tech_Elec-SR420561N/C109200,62,0.4335,26.877
+10uf,Capasitor,https://jlcpcb.com/partdetail/KyoceraAVX-TAJA106K016RNJ/C7171,36,0.1362,4.9032
+5.1kÎ©,Resistor,https://jlcpcb.com/partdetail/28584-0805W8F5101T5E/C27834,20,0.0018,0.036
+ESP32-C3-WROOM-02,WIFI module,https://jlcpcb.com/partdetail/3281215-ESP32_C3_WROOM_02N4/C2934560,2,3.033,6.066
+2.2kÎ©,Resistor,https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190,20,0.001,0.02
+AMS1117-3.3,Regulator,https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186,2,0.1639,0.3278
+10kÎ©,Resistor,https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414,20,0.0017,0.034
+C-Type connecter,USB,https://jlcpcb.com/partdetail/GSwitch-GT_USB7010ASV/C2988369,2,0.0786,0.1572
+100nf,Capasitor,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,44,0.0024,0.1056
+MAX7219N,IC Module,https://jlcpcb.com/partdetail/HGSEMI-MAX7219N/C492111,32,1.212,38.784
+PCB,JLCPCB,-,2,22,-
+PCB Shipping Cost,JLCPCB,-,-,2.39,-
+Total Price form JLCPCB,,-,-,-,18.36
+,,,,,
+,,,,,
+,,,,,
+,,,,,95.6708
