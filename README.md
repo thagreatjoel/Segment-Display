@@ -6,8 +6,11 @@ Each display handles a MAX7219 and every driver has capasitor for smooth power s
 
 ---
 ## Schematics
-![Segment Display Demo](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0326cf0acdf77c2bdcafb0e65877407c0a8e5247/Schematic_Segment-Display_2025-10-26.jpg)
-![Display Close-up](https://github.com/yourusername/yourrepo/blob/main/photos/demo2.jpg)
+![Schematic](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0326cf0acdf77c2bdcafb0e65877407c0a8e5247/Schematic_Segment-Display_2025-10-26.jpg)
+![Gerber](<img width="607" height="172" alt="17623208528351675285159586936277" src="https://github.com/user-attachments/assets/64dd1224-ce7b-480c-80f8-b815072c8e28" />
+)
+![Gerber2](<img width="607" height="172" alt="17623209187381733338747782117358" src="https://github.com/user-attachments/assets/a2c82b92-94a6-4e9e-a5b2-b808fd673c7e" />
+)
 
 ---
 
