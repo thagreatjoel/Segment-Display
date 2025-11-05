@@ -5,6 +5,11 @@ This is a large led display built using MAX7219 drivers and 4digit 7segment disp
 Each display handles a MAX7219 and every driver has capasitor for smooth power supply.
 
 ---
+## Schematics
+![Segment Display Demo](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0326cf0acdf77c2bdcafb0e65877407c0a8e5247/Schematic_Segment-Display_2025-10-26.jpg)
+![Display Close-up](https://github.com/yourusername/yourrepo/blob/main/photos/demo2.jpg)
+
+---
 
 ## Hardwares
 
